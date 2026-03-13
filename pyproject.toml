@@ -5,6 +5,7 @@ description = "Aqui desarrollaremos algoritmos de clasificacion de machine learn
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "imblearn>=0.0",
     "ipykernel>=7.2.0",
     "kagglehub>=1.0.0",
     "matplotlib>=3.10.8",
